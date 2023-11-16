@@ -102,7 +102,7 @@ button:hover{
     background-color: #25975A;
 }
 
-.item:hover{
+.item1:hover{
     background-color: yellow;
     color: black;
     transition: 0.3s;
@@ -194,5 +194,44 @@ button:hover{
 
 #b3{
     background-color: #8B008B;
+    color: white;
+}
+
+.itemcolor{
+    background-color: #FF0080;
+    color: white;
+}
+
+.itemcolor1{
+    background-color: #FFFF00;
+    color: black;
+}
+
+.itemcolor2{
+    background-color: #400020;
+    color: white;
+}
+
+.itemcolor3{
+    background-color: #a3f1bc;
+    color: white;
+}
+
+.itemcolor4{
+    background-color: rgb(242, 214, 248);;
+    color: white;
+}
+
+.itemcolor5{
+    background-color: rgb(118, 189, 73);
+    color: white;
+}
+
+.itemcolor6{
+    background-color: rgb(91, 89, 236);
+}
+
+.itemcolor7{
+    background-color: rgb(255, 0, 255);
     color: white;
 }
