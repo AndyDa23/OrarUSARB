@@ -163,13 +163,14 @@ button:hover{
      
 }
 
-.rasp:hover{
+.rasp1:hover{
     background-color: yellow;
     color: black;
 }
 
 .rasp2{
     width: 450px;
+    color: black;
 } 
 
 #btn button{
@@ -234,4 +235,8 @@ button:hover{
 .itemcolor7{
     background-color: rgb(255, 0, 255);
     color: white;
+}
+
+span{
+    font-weight: bolder;
 }
