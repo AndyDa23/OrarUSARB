@@ -32,12 +32,13 @@ button{
     margin: 4px;
     background-color: #25975A;
     color: white;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
-    padding: 10px 50px;
+    padding: 10px 30px;
     cursor: pointer;
     margin-top: 15px;
     border: none;
+    text-align: center;
     
 }
    
@@ -87,7 +88,7 @@ button:hover{
     font-size: 17px;
     border: 1px solid whitesmoke;
     height:25px;
-    width: 50px;
+    width: 43px;
     background-color: white;
     border-collapse: collapse;
     
